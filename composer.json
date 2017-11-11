@@ -1,0 +1,6 @@
+{
+    "name": "hiro/demo",
+    "description": "test",
+    "minimum-stability": "dev",
+    "require": {}
+}
